@@ -1,0 +1,6 @@
+streamlit
+feedparser
+sqlalchemy
+nltk
+python-dotenv
+schedule
